@@ -1,0 +1,26 @@
+.backgrand {
+  background-color: hsl(212, 45%, 89%);
+}
+.card {
+  width: 320px;
+  height: 499px;
+  padding: 16px 0px 20px 24px;
+  margin: auto;
+  border-radius: 12px;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+  background-color: hsl(206, 78%, 98%);
+}
+.card h3,
+.card p {
+  max-width: 288px;
+  text-align: center;
+  padding: 2px 0px;
+}
+
+.image-qr-code {
+  width: 288px;
+  height: 288px;
+  border-radius: 12px;
+}
